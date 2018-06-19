@@ -1,0 +1,23 @@
+{
+  "name": "searchMovie",
+  "version": "1.0.0",
+  "description": "Для работы приложения сначала необходимо в консоли запустить сервер - node server. Далее в браузере переходим по адресу localhost:3000.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/persalius/node.js-Search-movie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/persalius/node.js-Search-movie/issues"
+  },
+  "homepage": "https://github.com/persalius/node.js-Search-movie#readme"
+}
